@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#199BDC</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Splash Screen Colors-->
+    <color name="hcBlue">#199BDC</color>
+
+    <color name="checkedMenuItem">#ff6e20</color>
+    <color name="uncheckedMenuItem">@color/hcBlue</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="transparent">@android:color/transparent</color>
+
+</resources>
